@@ -1,0 +1,45 @@
+Process 0 queue SJF started at 0
+proces 0 queue SJF interrupted at 3
+Process 0 queue RR started at 4
+Process 1 queue RR started at 7
+process 1 queue RRfinished at 9
+RR 2 TurnArroundTime: 5
+Process 3 queue RR started at 10
+process 3 queue RRfinished at 12
+RR 2 TurnArroundTime: 7
+Process 0 queue RR started at 13
+Process 2 queue RR started at 16
+Process 4 queue RR started at 19
+Process 0 queue RR started at 22
+process 0 queue RRfinished at 23
+RR 2 TurnArroundTime: 20
+Process 4 queue RR started at 24
+process 4 queue RRfinished at 25
+RR 2 TurnArroundTime: 19
+Process 2 queue RR started at 26
+process 2 queue RRfinished at 28
+RR 2 TurnArroundTime: 24
+Process 1 queue SJF started at 29
+SJF 1 TurnArroundTime: 29
+process 1 queue SJF finished at 31
+Process 0 queue SJF started at 32
+SJF 0 TurnArroundTime: 34
+process 0 queue SJF finished at 34
+Process 2 queue SJF started at 35
+SJF 2 TurnArroundTime: 36
+process 2 queue SJF finished at 39
+Process 0 queue FCFS started at 40
+FCFS 0 TurnArroundTime: 48
+process 0 queue FCFS finished at 48
+Process 1 queue FCFS started at 49
+FCFS 1 TurnArroundTime: 49
+process 1 queue FCFS finished at 51
+Process 2 queue FCFS started at 52
+FCFS 2 TurnArroundTime: 54
+process 2 queue FCFS finished at 57
+Process 3 queue FCFS started at 58
+FCFS 3 TurnArroundTime: 54
+process 3 queue FCFS finished at 59
+average RR 15
+average SJF 33
+average FCFS 51
